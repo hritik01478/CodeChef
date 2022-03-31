@@ -1,6 +1,6 @@
 // Author - Hritik
 // Platform - Codechef
-// Question - Increase 2 Consecutive Characters
+// Question - Alternating String
 // Contest - CodeChef Starters 31 Division 2 (Rated)
 // Question Link - https://www.codechef.com/START31B/problems/ALTSTR/
 
